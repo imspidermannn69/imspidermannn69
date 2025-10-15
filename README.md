@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Seth!
+# 👋 Hi, I'm Toru!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9B1D6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;;Always+Learning+New+Things" alt="Typing SVG" />
 
