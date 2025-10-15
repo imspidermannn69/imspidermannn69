@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Seth!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9B1D6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9B1D6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;;Always+Learning+New+Things" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&fontColor=A9B1D6&animation=twinkling&fontAlignY=35" />
 
@@ -16,7 +16,7 @@
 
 </div>
 
-```javascript
+
 const seth = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "Java", "C++", "PHP", "Kotlin"],
@@ -36,7 +36,7 @@ const seth = {
     currentFocus: "Building scalable web applications",
     funFact: "I debug with console.log() and I'm proud of it"
 };
-```
+
 
 ---
 
@@ -141,11 +141,6 @@ const seth = {
 
 ---
 
-<div align="center">
-
-### 👀 Profile Views
-
-<img src="https://visitcount.itsvg.in/api?id=imspidermannn69&label=Profile%20Views&color=7&icon=5&pretty=true" alt="Profile Views" />
 
 ### ⚡ Fun Fact
 
