@@ -16,7 +16,7 @@
 
 </div>
 
-
+```javascript
 const seth = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "Java", "C++", "PHP", "Kotlin"],
@@ -36,6 +36,7 @@ const seth = {
     currentFocus: "Building scalable web applications",
     funFact: "I debug with console.log() and I'm proud of it"
 };
+```
 
 
 ---
