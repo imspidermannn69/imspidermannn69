@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=TORU.DEV&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Code%20%26%20Create&descAlignY=60&descSize=18&descColor=a9b1d6" width="100%" />
+<img src="./toru-dev-banner.svg" width="100%"/>
 
 </div>
 
